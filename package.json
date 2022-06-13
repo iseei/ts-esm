@@ -1,0 +1,24 @@
+{
+  "name": "ts-esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx ./src/app.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iseei/ts-esm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iseei/ts-esm/issues"
+  },
+  "homepage": "https://github.com/iseei/ts-esm#readme",
+  "dependencies": {
+    "lowdb": "^3.0.0",
+    "tsx": "^3.4.2"
+  }
+}
